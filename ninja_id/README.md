@@ -2,9 +2,10 @@
 
 A new Flutter application.
 
+![alt text](Screenshot_1590674060.png)
+![alt text](Screenshot_1590674120.png)
 ## Getting Started
-	![alt text](Screenshot_1590674060.png)
-  	![alt text](Screenshot_1590674120.png	)
+	
 
 This project is a starting point for a Flutter application.
 
